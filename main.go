@@ -1,19 +1,13 @@
-//Programmer: Vincent Gabb
-//1.4.1 - Plan it
-//MPG calculator
+//Declare Variable for first variable.
 
-//Declare a variable for Gas Tank Size.
+// Declare variable for the second number.
 
-//Declare a variable for Miles Travled.
+//Display Welcome message "Welcome to the ultimate Calculator!"
 
-//Ask the user to enter their gas tank size.
+//Prompt User to enter a number.
 
-//Ask the user to enter the amount of miles they travled.
+//Prompt User to enter another number.
 
-//output the average gas mileage 
-
-//If the average is less that 20mpg display a message a dissapointed message.
-
-//If the average is more than 20mpg display a message that expresses happiness.
+//Multiply, Divide, Subtract, and Add the two numbers by eachother
 
 //end.
